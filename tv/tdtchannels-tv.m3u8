@@ -149,6 +149,8 @@ https://ztnr.rtve.es/ztnr/16862827.m3u8
 https://ztnr.rtve.es/ztnr/6712399.m3u8
 #EXTINF:-1 tvg-id="RTVE_En_Play.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales" tvg-name="En Play (RTVE)",En Play (RTVE)
 https://ztnr.rtve.es/ztnr/17017351.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales" tvg-name="Automovilismo: Formula E (RTVE)",Automovilismo: Formula E (RTVE)
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve18_main.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="Eventuales" tvg-name="Canal Parlamento",Canal Parlamento
 https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="Eventuales" tvg-name="Congreso de los Diputados",Congreso de los Diputados
@@ -514,10 +516,6 @@ https://liveingesta318.cdnmedia.tv/tvhospitaletlive/smil:tvhospitalet.smil/playl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 https://liveingesta318.cdnmedia.tv/tvvendrelllive/smil:directe.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Xarxa_Canal_Taronja_Anoia.TV" tvg-logo="https://graph.facebook.com/canaltaronjaanoia/picture?width=200&height=200" group-title="Cataluña" tvg-name="Canal Taronja Anoia",Canal Taronja Anoia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://ingest1-video.streaming-pro.com/canaltaronja/anoia/playlist.m3u8
 #EXTINF:-1 tvg-id="Xarxa_VOTV.TV" tvg-logo="https://graph.facebook.com/votv.cat/picture?width=200&height=200" group-title="Cataluña" tvg-name="VOTV",VOTV
 https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TaronjaTV/picture?width=200&height=200" group-title="Cataluña" tvg-name="Canal Taronja Osona i Moianés",Canal Taronja Osona i Moianés
@@ -601,7 +599,7 @@ https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/maestrat.tv/picture?width=200&height=200" group-title="C. Valenciana" tvg-name="Maestrat TV",Maestrat TV
 https://stream.maestrat.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/burrianateve/picture?width=200&height=200" group-title="C. Valenciana" tvg-name="Burriana TV",Burriana TV
-https://www.burrianateve.com/hls/btv.m3u8
+https://stream.burrianateve.com/hls/abr_btv/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TV4LaVall/picture?width=200&height=200" group-title="C. Valenciana" tvg-name="TV 4 La Vall",TV 4 La Vall
 https://valldeuxo.gestec-video.com/hls/lavall.m3u8
 #EXTINF:-1 tvg-id="Distrito.TV" tvg-logo="https://graph.facebook.com/2004860103163343/picture?width=200&height=200" group-title="C. Valenciana" tvg-name="Distrito TV Valencia",Distrito TV Valencia
@@ -615,7 +613,7 @@ https://videos.canal56.com/directe/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/UniversValenciaDigital/picture?width=200&height=200" group-title="C. Valenciana" tvg-name="Univers TV",Univers TV
 https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/radiobunyol/picture?width=200&height=200" group-title="C. Valenciana" tvg-name="Radio Buñol TV",Radio Buñol TV
-https://castor.streamthatvideo.co:8081/radiobunyol/tracks-v1a1/mono.m3u8
+https://radiotvbunollive.flumotion.cloud/radiotvbunollive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/IYhYKEgINXNgQGLhReOrma2Pcl151M7Ray9SYDWissgAAZQJUhrRPEe7tLBT9XlsjwChuTNW=s200" group-title="C. Valenciana" tvg-name="TV Almassora",TV Almassora
 https://play.turesportmedia.com/hls/abr_tvalmassora/index.m3u8
 #EXTINF:-1 tvg-id="Punt3.TV" tvg-logo="https://graph.facebook.com/Punt3Television/picture?width=200&height=200" group-title="C. Valenciana" tvg-name="Punt 3 Vall Uixó",Punt 3 Vall Uixó
@@ -800,8 +798,6 @@ https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/GBNewsOnline/picture?width=200&height=200" group-title="Int. Europa" tvg-name="GB News Reino Unido",GB News Reino Unido EN
 https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/LN24LesNews24/picture?width=200&height=200" group-title="Int. Europa" tvg-name="LN24 Bélgica",LN24 Bélgica FR
-https://live-ln24.digiteka.com/1911668011/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Digi24HD/picture?width=200&height=200" group-title="Int. Europa" tvg-name="Digi24 Rumanía",Digi24 Rumanía RO
 https://pubads.g.doubleclick.net/ssai/event/OQfdjUhHSDSlb1fJVzehsQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/trtworld/picture?width=200&height=200" group-title="Int. Europa" tvg-name="TRT World Turquía",TRT World Turquía EN
