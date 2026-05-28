@@ -69,7 +69,7 @@ https://cartv.streaming.aranova.es/hls/live/adeportes_deporte2.m3u8
 #EXTINF:-1 tvg-id="AragonD.TV" tvg-logo="https://graph.facebook.com/aragondeporte/picture?width=200&height=200" group-title="Deportivos" tvg-name="Aragón Deporte",Aragón Deporte
 https://cartv-streaming.aranova.es/hls/live/adeportes_deporte1.m3u8
 #EXTINF:-1 tvg-id="Vinx.TV" tvg-logo="https://graph.facebook.com/VinxTV/picture?width=200&height=200" group-title="Deportivos" tvg-name="Vinx TV",Vinx TV
-https://live.astreaming.es:5443/live/streams/vinxtv.m3u8
+https://customer-j50z4bles8c5p8lt.cloudflarestream.com/850f7ea09fe7b74b7c507b529e9d0c56/manifest/video.m3u8
 #EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200" group-title="Deportivos" tvg-name="Real Madrid TV",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200" group-title="Deportivos" tvg-name="Real Madrid TV",Real Madrid TV EN
@@ -147,6 +147,8 @@ https://ztnr.rtve.es/ztnr/6909845.m3u8
 https://ztnr.rtve.es/ztnr/16656232.m3u8
 #EXTINF:-1 tvg-id="RTVE_PopUp.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales" tvg-name="Al cielo con ella (RTVE)",Al cielo con ella (RTVE)
 https://ztnr.rtve.es/ztnr/16862827.m3u8
+#EXTINF:-1 tvg-id="RTVE_PopUp2.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales" tvg-name="Feria del libro (RTVE)",Feria del libro (RTVE)
+https://ztnr.rtve.es/ztnr/16541484.m3u8
 #EXTINF:-1 tvg-id="RTVE_En_Play.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales" tvg-name="En Play (RTVE)",En Play (RTVE)
 https://ztnr.rtve.es/ztnr/6712399.m3u8
 #EXTINF:-1 tvg-id="RTVE_En_Play.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales" tvg-name="En Play (RTVE)",En Play (RTVE)
@@ -1018,7 +1020,7 @@ https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
 https://install.akctvcontrol.com/speed/broadcast/141/desktop-playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ServusTV/picture?width=200&height=200" group-title="Int. Otros" tvg-name="ServusTV WetterPanorama",ServusTV WetterPanorama
 https://rbmn-live.akamaized.net/hls/live/665268/Wetterpanorama/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="Red Bull TV",Red Bull TV EN
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/626481857161375748/OeXi9avz_200x200.png" group-title="Deportivos Int." tvg-name="Red Bull TV",Red Bull TV EN
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1912970794524610560/M1vEMVlm_200x200.jpg" group-title="Deportivos Int." tvg-name="Stadium USA",Stadium USA EN
 https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8
