@@ -1152,6 +1152,8 @@ https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8
 https://ztnr.rtve.es/ztnr/3293681.m3u8
 #EXTINF:-1 tvg-id="La1Catalunya.es@SD",La 1 Catalunya (720p) [Geo-blocked]
 https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8
+#EXTINF:-1 tvg-id="La1.es@UHD",La 1 UHD (2160p)
+http://185.47.212.25:8080/tdp_HD/index.m3u8
 #EXTINF:-1 tvg-id="La2.es@SD",La 2
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8
 #EXTINF:-1 tvg-id="La2Canarias.es@SD",La 2 Canarias (720p)
