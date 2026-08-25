@@ -51,9 +51,9 @@ https://cdn-canalextremadura.watchity.net/fast2/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV
 https://183.bozztv.com/ssh101/ssh101/pequeradiotv/playlist.m3u8
 #EXTINF:-1 tvg-id="EnergeekRetro.TV" tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png" group-title="Infantiles" tvg-name="EnerGeek Retro",EnerGeek Retro HD
-https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=TDTCh4nnelsES
+https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=TDTCh4nnelsES
 #EXTINF:-1 tvg-id="EnergeekFan.TV" tvg-logo="https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png" group-title="Infantiles" tvg-name="EnerGeek Fan",EnerGeek Fan HD
-https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=TDTCh4nnelsES
+https://cl-2.backend.energeek.cl/bkp/egfanweb/index.m3u8?token=TDTCh4nnelsES
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg" group-title="Eventuales" tvg-name="+24",+24
 https://ztnr.rtve.es/ztnr/6108696.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Eventuales" tvg-name="+tdp",+tdp
@@ -636,7 +636,7 @@ https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/playlist.m3u8
 https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/EstrellaTVNetwork/picture?width=200&height=200" group-title="Int. América" tvg-name="Estrella TV México",Estrella TV México
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Tele10Nayarit/picture?width=200&height=200" group-title="Int. América" tvg-name="TELE 10 Nayarit México",TELE 10 Nayarit México
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/krfhsmd4GbzHY19-fuyfFZ7PwboLVojzf9gJPXDsXmXuWIgCrmjLT2irkJQNrXdyxmbSCVf7pSU=s200" group-title="Int. América" tvg-name="TELE 10 Nayarit México",TELE 10 Nayarit México
 https://live.iplanay.gob.mx/hls/nayarittv.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/NoticiasRCN/picture?width=200&height=200" group-title="Int. América" tvg-name="Noticias RCN",Noticias RCN
 https://aka-live1050.delivery.roku.com/63a55317-8cde-4c4a-9a5f-3e6a97ae7c9e/t2-origin/out/v1/live.m3u8
@@ -771,7 +771,7 @@ https://cloudvideo.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/spektramusictv/picture?width=200&height=200" group-title="Musicales" tvg-name="Spektra TV España",Spektra TV España
 https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/EG-Radio-2025_pfp.png" group-title="Musicales" tvg-name="EnerGeek Radio Chile",EnerGeek Radio Chile HD
-https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=TDTCh4nnelsES
+https://cl-2.backend.energeek.cl/bkp/egradioweb/index.m3u8?token=TDTCh4nnelsES
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/conexionberaok/picture?width=200&height=200" group-title="Musicales" tvg-name="Conexión Berazategui Argentina",Conexión Berazategui Argentina
 https://lbgo.bozztv.com/ssh101/ssh101/conexionbera/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/radioitalia/picture?width=200&height=200" group-title="Musicales" tvg-name="Radio Italia TV",Radio Italia TV IT
@@ -906,8 +906,6 @@ https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3
 https://streaming005.gestec-video.com/hls/canal24.m3u8
 #EXTINF:-1 tvg-id="9laLomaTV.es@SD",9 la Loma TV (1080p) [Geo-blocked]
 https://9laloma.tv/live.m3u8
-#EXTINF:-1 tvg-id="APunt.es@SD",A Punt
-https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="APunt.es@SD",A Punt (720p)
 https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8
 #EXTINF:-1 tvg-id="AXNCEE.es@Hungary",AXN CEE
@@ -916,6 +914,8 @@ https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/605795588500
 http://85.11.144.9:4222/AXN
 #EXTINF:-1 tvg-id="AXNCEE.es@CzechRepublic",AXN CEE Czech Republic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+#EXTINF:-1 tvg-id="AXNCEE.es@Romania",AXN CEE Romania
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTINF:-1 tvg-id="ActivaTV.es@SD",Activa TV (720p)
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 #EXTINF:-1 tvg-id="Actualidad360.es@SD",Actualidad 360 (1080p) [Geo-blocked]
@@ -1298,6 +1298,8 @@ https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8
 https://directes3-tv-es.3catdirectes.cat/live-content/tvc-hls/master.m3u8
 #EXTINF:-1 tvg-id="TVCentroAndalucia.es@SD",TVCentro Andalucía (720p) [Not 24/7]
 https://5fa5de1a545ae.streamlock.net/8052/8052/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es@SD",TVE Internacional America (1080p)
+https://cdn1tlinkgo.tlink.cl/tve/index.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAmerica.es@SD",TVE Internacional America (576p) [Geo-blocked]
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAmerica.es@SD",TVE Internacional America (720p)
