@@ -76,8 +76,8 @@ https://ztnr.rtve.es/ztnr/16656232.m3u8
 https://ztnr.rtve.es/ztnr/16862827.m3u8
 #EXTINF:-1 tvg-id="RTVE_En_Play.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales" tvg-name="En Play (RTVE)",En Play (RTVE)
 https://ztnr.rtve.es/ztnr/17017351.m3u8
-#EXTINF:-1 tvg-id="RTVE_PopUp2.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales" tvg-name="Festival de San Sebastián (RTVE)",Festival de San Sebastián (RTVE)
-https://ztnr.rtve.es/ztnr/16720260.m3u8
+#EXTINF:-1 tvg-id="RTVE_PopUp2.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales" tvg-name="Segunda estrella (RTVE)",Segunda estrella (RTVE)
+https://ztnr.rtve.es/ztnr/17239088.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="Eventuales" tvg-name="Canal Parlamento",Canal Parlamento
 https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="Eventuales" tvg-name="Congreso de los Diputados",Congreso de los Diputados
@@ -616,7 +616,7 @@ https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/courttv/picture?width=200&height=200" group-title="Int. América" tvg-name="CourtTV USA",CourtTV USA EN
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/WeatherNation/picture?width=200&height=200" group-title="Int. América" tvg-name="WeatherNation USA",WeatherNation USA
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/WeatherNation/picture?width=200&height=200" group-title="Int. América" tvg-name="WeatherNation USA",WeatherNation USA EN
 https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RealAmericasVoice/picture?width=200&height=200" group-title="Int. América" tvg-name="America's Voice USA",America's Voice USA EN
 https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8
@@ -626,7 +626,7 @@ https://buzzrota-ono.amagi.tv/playlist.m3u8
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2067373416173260801/9cUCY5wX_200x200.jpg" group-title="Int. América" tvg-name="America TeVe USA",America TeVe USA
 https://live.gideo.video/americateve2/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tvfloridausa/picture?width=200&height=200" group-title="Int. América" tvg-name="TV Florida USA",TV Florida USA
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/tvfloridausa/picture?width=200&height=200" group-title="Int. América" tvg-name="TV Florida USA",TV Florida USA PT
 https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=16147&live=1&avod=0&hls_marker=1&pod_duration=120&ssai_enabled=1&content_network=streamingconnect&position=preroll&app_bundle=com.streamingconnect.viva&app_category=linear_tv&app_domain=mirametv.live&content_cat=IAB1&content_channel=tvflorida&content_genre=tv_broadcaster&content_rating=TV-G&content_id=mirametv_live&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&min_ad_duration=6&max_ad_duration=120&ifa_type=[IFA_TYPE]
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200" group-title="Int. América" tvg-name="Canal 6 Multimedios México",Canal 6 Multimedios México
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
@@ -642,13 +642,13 @@ https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/playlist.m3u
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/krfhsmd4GbzHY19-fuyfFZ7PwboLVojzf9gJPXDsXmXuWIgCrmjLT2irkJQNrXdyxmbSCVf7pSU=s200" group-title="Int. América" tvg-name="TELE 10 Nayarit México",TELE 10 Nayarit México
 https://live.iplanay.gob.mx/hls/nayarittv.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/NoticiasRCN/picture?width=200&height=200" group-title="Int. América" tvg-name="Noticias RCN",Noticias RCN
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/NoticiasRCN/picture?width=200&height=200" group-title="Int. América" tvg-name="Noticias RCN Colombia",Noticias RCN Colombia
 https://aka-live1050.delivery.roku.com/63a55317-8cde-4c4a-9a5f-3e6a97ae7c9e/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalTeleantioquia/picture?width=200&height=200" group-title="Int. América" tvg-name="Teleantioquia Colombia",Teleantioquia Colombia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/senalcolombiapaginaoficial/picture?width=200&height=200" group-title="Int. América" tvg-name="Señal Colombia",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/TelepacificoTV/picture?width=200&height=200" group-title="Int. América" tvg-name="Telepacifico Colombia",Telepacifico Colombia
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/TelepacificoTV/picture?width=200&height=200" group-title="Int. América" tvg-name="Telepacífico Colombia",Telepacífico Colombia
 https://live-edge-par-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-telepacifico/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/telecaribeEnvivo/picture?width=200&height=200" group-title="Int. América" tvg-name="Canal Telecaribe Colombia",Canal Telecaribe Colombia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -662,7 +662,7 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
 #EXTINF:-1 tvg-id="TeleSUR.TV" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=200&height=200" group-title="Int. América" tvg-name="TeleSUR Venezuela",TeleSUR Venezuela
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/globovision/picture?width=200&height=200" group-title="Int. América" tvg-name="Globovision Venezuela",Globovision Venezuela
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/globovision/picture?width=200&height=200" group-title="Int. América" tvg-name="Globovisión Venezuela",Globovisión Venezuela
 https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1962545090485784576/uXP9DhVk_200x200.jpg" group-title="Int. América" tvg-name="Ecuador TV Ecuador",Ecuador TV Ecuador
 https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
@@ -684,7 +684,7 @@ https://cloudvideo.servers10.com:8081/8130/index.m3u8
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/wiprtv/picture?width=200&height=200" group-title="Int. América" tvg-name="WIPR Puerto Rico",WIPR Puerto Rico
 https://streamwipr.pr/hls/stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tvcultura/picture?width=200&height=200" group-title="Int. América" tvg-name="TV Cultura Brasil",TV Cultura Brasil
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/tvcultura/picture?width=200&height=200" group-title="Int. América" tvg-name="TV Cultura Brasil",TV Cultura Brasil PT
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tveInternacional/picture?width=200&height=200" group-title="Int. Asia" tvg-name="TVE Int. Asia y Pacífico",TVE Int. Asia y Pacífico GEO
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_dvr_1080.m3u8
@@ -756,7 +756,7 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ITSF.tablesoccer/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="Int. Table Soccer Federation",Int. Table Soccer Federation
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7333
-#EXTINF:-1 tvg-id="RNE_Radio3.TV" tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200" group-title="Musicales" tvg-name="Radio 3",Radio 3
+#EXTINF:-1 tvg-id="RNE_Radio3.TV" tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200" group-title="Musicales" tvg-name="Radio 3 España",Radio 3 España
 https://ztnr.rtve.es/ztnr/6982918.m3u8
 #EXTINF:-1 tvg-id="SolMusica.TV" tvg-logo="https://graph.facebook.com/solmusica/picture?width=200&height=200" group-title="Musicales" tvg-name="Sol Música España",Sol Música España
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
@@ -814,7 +814,7 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/OckoExpres/picture?width=200&height=200" group-title="Musicales" tvg-name="Expres Chequia",Expres Chequia
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/retromusic/picture?width=200&height=200" group-title="Musicales" tvg-name="Retro Music TV Chequia",Retro Music TV Chequia EN
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/retromusic/picture?width=200&height=200" group-title="Musicales" tvg-name="Retro Music TV Chequia",Retro Music TV Chequia
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/4FUN.TV/picture?width=200&height=200" group-title="Musicales" tvg-name="4FUN TV Polonia",4FUN TV Polonia PL
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
@@ -910,6 +910,8 @@ https://streaming005.gestec-video.com/hls/canal24.m3u8
 https://9laloma.tv/live.m3u8
 #EXTINF:-1 tvg-id="APunt.es@SD",A Punt (720p)
 https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8
+#EXTINF:-1 tvg-id="AXN.es@SD",AXN (1080p)
+http://193.254.245.162/AXN/index.m3u8
 #EXTINF:-1 tvg-id="AXNCEE.es@Hungary",AXN CEE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="AXNCEE.es@Bulgary",AXN CEE Bulgary
@@ -918,6 +920,8 @@ http://85.11.144.9:4222/AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 #EXTINF:-1 tvg-id="AXNCEE.es@Romania",AXN CEE Romania
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
+#EXTINF:-1 tvg-id="AXNMovies.es@SD",AXN Movies
+https://cdn.stmify.com/zapitv/stream/AXN_MOVIES/axn_white.mpd
 #EXTINF:-1 tvg-id="ActivaTV.es@SD",Activa TV (720p)
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 #EXTINF:-1 tvg-id="Actualidad360.es@SD",Actualidad 360 (1080p) [Geo-blocked]
@@ -930,8 +934,12 @@ http://217.182.77.27/live/alcarriatv-livestream.m3u8
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
 #EXTINF:-1 tvg-id="AnimeVisionClassics.es@SD",Anime Vision Classics (1080p)
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
+#EXTINF:-1 tvg-id="Antena3.es@National",Antena 3
+https://cdn.stmify.com/zapitv/stream/ANTENA_3/test.mpd
 #EXTINF:-1 tvg-id="Antena3Internacional.es@SD",Antena 3 Internacional
 http://177.10.184.193:8000/play/a06a/index.m3u8
+#EXTINF:-1 tvg-id="Antena3Internacional.es@SD",Antena 3 Internacional (1080p)
+http://38.252.238.18:8000/play/a04a/index.m3u8
 #EXTINF:-1 tvg-id="ArabiTV.es@SD",Arabí TV (1080p)
 https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
 #EXTINF:-1 tvg-id="AragonTVInternacional.es@SD",Aragon TV Internacional (720p) [Not 24/7]
@@ -1034,6 +1042,8 @@ https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8
 https://rtvelivestream.rtve.es/rtvesec/clan/clan_main.m3u8
 #EXTINF:-1 tvg-id="ClanInternacional.es@SD",Clan Internacional
 https://xyktmobile00.s.gy/PPV906_CLAN_INTE
+#EXTINF:-1 tvg-id="ClanInternacional.es@SD",Clan Internacional (1080p)
+http://168.228.44.241:9999/play/a04j/index.m3u8
 #EXTINF:-1 tvg-id="ClanInternacional.es@SD",Clan Internacional Americas (1080p) [Geo-blocked]
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 #EXTINF:-1 tvg-id="Clan.es@SD",Clan TVE (1080p) [Geo-blocked]
@@ -1316,6 +1326,8 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_576.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es@HD",TVE Internacional Asia-Oceania HD (1080p) [Geo-blocked]
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_1080.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalEurope.es@SD",TVE Internacional Europe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TVEInternacionalEurope.es@SD",TVE Internacional Europe (576p) [Geo-blocked]
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_576.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalEurope.es@HD",TVE Internacional Europe HD (1080p) [Geo-blocked]
